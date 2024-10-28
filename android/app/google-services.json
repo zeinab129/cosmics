@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846286584742",
+    "project_id": "cosmic-da9d9",
+    "storage_bucket": "cosmic-da9d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846286584742:android:9d922ecc16425b84f5ad67",
+        "android_client_info": {
+          "package_name": "com.example.cosmics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6JeFwrAZhALS2Qx9V4AGY_k5qtT5ajc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
